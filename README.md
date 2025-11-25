@@ -31,11 +31,7 @@ The core workflow is demonstrated in tutorial.ipynb
 
 ## Roadmap
 
-[ ] Backtesting Engine: Implement event-driven backtesting with transaction costs.
-
-[ ] Visualization: Add spread plotting and Z-score entry/exit signal visualization.
-
-[ ] Universe Selection: Abstract the data provider to support indices beyond the CAC 40 (e.g., DAX, EuroStoxx).
+[ ] Universe Selection: Support indices beyond the CAC 40 (e.g., DAX, EuroStoxx).
 
 ## References
 
