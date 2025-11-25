@@ -3,7 +3,6 @@ import pandas as pd
 import yfinance as yf
 import requests
 from bs4 import BeautifulSoup
-from typing import List
 
 
 logger = logging.getLogger(__name__)
